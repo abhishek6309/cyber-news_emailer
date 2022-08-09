@@ -4,3 +4,4 @@ A simple to use python automation script which will automaticaly send you email 
 
 # OUTPUT:
 
+![](https://drive.google.com/file/d/1aZb39hjmvZu-bAeB4AG58KierYsqn2lX/view?usp=sharing)
